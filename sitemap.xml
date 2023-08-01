@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://anyidea.github.io/elsa/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/elsa/en/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/elsa/zh/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/elsa/api/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/elsa/en/api/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/elsa/zh/api/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/elsa/changelog/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/elsa/en/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/elsa/zh/changelog/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/elsa/contributing/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/elsa/en/contributing/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/elsa/zh/contributing/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/elsa/installation/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/elsa/en/installation/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/elsa/zh/installation/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/elsa/usage/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/elsa/en/usage/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/elsa/zh/usage/"/>
+         
+    </url>
+</urlset>
